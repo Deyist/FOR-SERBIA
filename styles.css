@@ -1,0 +1,43 @@
+#back{
+    height:988px;
+    width:1940px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    cursor:crosshair;
+    font-size:100px;
+    color:white;
+}
+#cow{
+    width:800px;
+    height:800px;
+ 
+ position:absolute;
+ top:50px;
+ left:550px;
+ display:none;
+
+}
+#rainbow{
+    display:none;
+    width:1932px;
+    height:1097px;
+   
+}
+#grad{
+  
+    width:1932px;
+    height:1097px;
+    z-index:0
+  
+
+}
+
+#push{
+    position: absolute;
+    left: 125px;
+    top: 250px;
+    cursor:pointer;
+    font-size:100px;
+    color:white;
+}
