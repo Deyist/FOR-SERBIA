@@ -41,3 +41,39 @@
     font-size:100px;
     color:white;
 }
+#cat{
+    width:500px;
+    height:500px;
+ 
+ position:absolute;
+ top:10px;
+ left:10px;
+ display:none;
+}
+#cat2{
+    width:500px;
+    height:500px;
+ 
+ position:absolute;
+ top:10px;
+ left:1438px;
+ display:none;
+}
+#cat3{
+    width:500px;
+    height:500px;
+ 
+ position:absolute;
+ top:598px;
+ left:1438px;
+ display:none;
+}
+#cat4{
+    width:500px;
+    height:500px;
+ 
+ position:absolute;
+ top:598px;
+ left:10px;
+ display:none;
+}
